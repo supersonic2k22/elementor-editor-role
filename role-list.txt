@@ -1,0 +1,32 @@
+
+Create notes elementor-pro
+Edit attachments
+Edit elementor library
+Edit others elementor library
+Edit others pages
+Edit others posts
+Edit pages
+Edit posts
+Edit private pages
+Edit published elementor library
+Edit published pages
+Edit published posts
+Elementor edit
+Elementor edit templates
+Elementor manage templates
+Elementor publish templates
+Manage categories
+Manage links
+Moderate comments
+Publish elementor library
+Publish pages
+Publish posts
+Read
+Read notes elementor-pro
+Read others private notes elementor-pro
+Read private pages
+Read private posts
+Unfiltered html
+Upload files
+Wpseo bulk edit
+Wpseo edit advanced metadata 
